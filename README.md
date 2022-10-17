@@ -6,16 +6,17 @@
 * It can be downloaded from the Q group sharing. The compressed package file starting with Project is the source code project, for example:      Project_OcrLiteOnnx-version number.7z
 * If you want to toss yourself, please continue reading this description
 
-### Demo下载(win、mac、linux)
+### Demo download (win, mac, linux)
 
-* 编译好的demo，可以在release中下载，或者Q群共享内下载
-* 或者[Gitee下载](https://gitee.com/benjaminwan/ocr-lite-onnx/releases)
-* 或者[Github下载](https://github.com/benjaminwan/OcrLiteOnnx/releases)
-* 各平台可执行文件：linux-bin.7z、macos-bin.7z、windows-bin.7z
-* 用于java的jni库：linux-jni.7z、macos-jni.7z、windows-jni.7z
-* 用于C的动态库：linux-clib.7z、macos-clib.7z、windows-clib.7z
-* C动态库调用范例:[OcrLiteOnnxLibTest](https://github.com/benjaminwan/OcrLiteOnnxLibTest)
-* 注意：linux编译平台为ubuntu18.04，如果你的linux版本无法运行demo，请自行从源码编译依赖库和完整项目。
+* The compiled demo can be downloaded in the release, or downloaded in the Q group sharing
+* Or Gitee download
+* Or download from Github
+* Executable files for each platform: linux-bin.7z, macos-bin.7z, windows-bin.7z
+* jni libraries for java: linux-jni.7z, macos-jni.7z, windows-jni.7z
+* Dynamic libraries for C: linux-clib.7z, macos-clib.7z, windows-clib.7z
+* C dynamic library call example: OcrLiteOnnxLibTest
+* C dynamic library:[OcrLiteOnnxLibTest](https://github.com/benjaminwan/OcrLiteOnnxLibTest)
+* Note: The linux compilation platform is ubuntu18.04. If your linux version cannot run the demo, please compile the dependent library and complete project from the source code by yourself.
 
 ### 介绍
 
