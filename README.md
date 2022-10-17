@@ -2,9 +2,9 @@
 
 ### Project Download
 
-* 整合好源码和依赖库的完整工程项目，可以在Release中下载(github)
-* 可到Q群共享内下载，以Project开头的压缩包文件为源码工程，例：Project_OcrLiteOnnx-版本号.7z
-* 如果想自己折腾，则请继续阅读本说明
+* A complete project that integrates the source code and dependent libraries can be downloaded in Release (github)
+* It can be downloaded from the Q group sharing. The compressed package file starting with Project is the source code project, for example:      Project_OcrLiteOnnx-version number.7z
+* If you want to toss yourself, please continue reading this description
 
 ### Demo下载(win、mac、linux)
 
