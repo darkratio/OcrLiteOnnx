@@ -24,9 +24,7 @@ Super lightweight Chinese OCR PC Demo, supports onnxruntime reasoning
 
 **对应chineseocr lite的onnx分支**
 
-这个项目使用onnxruntime框架进行推理
-
-详情请查看 [https://github.com/ouyanghuiyu/chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
+This project uses the onnxruntime framework for inference
 
 采用onnxruntime框架[https://github.com/microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
 
