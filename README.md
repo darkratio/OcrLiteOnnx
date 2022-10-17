@@ -22,7 +22,7 @@
 
 Super lightweight OCR PC Demo, supports onnxruntime reasoning
 
-** Super lightweight OCR onnx branch **
+**Super lightweight OCR onnx branch**
 
 This project uses the onnxruntime framework for inference
 
