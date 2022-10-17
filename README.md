@@ -18,9 +18,9 @@
 * C dynamic library:[OcrLiteOnnxLibTest](https://github.com/benjaminwan/OcrLiteOnnxLibTest)
 * Note: The linux compilation platform is ubuntu18.04. If your linux version cannot run the demo, please compile the dependent library and complete project from the source code by yourself.
 
-### 介绍
+### Introduction
 
-ChineseOcr Lite Onnx，超轻量级中文OCR PC Demo，支持onnxruntime推理
+Super lightweight Chinese OCR PC Demo, supports onnxruntime reasoning
 
 **对应chineseocr lite的onnx分支**
 
